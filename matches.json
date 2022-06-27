@@ -3,17 +3,17 @@
   "descricao": "Copa do Mundo 2022",
     "local": {
       "nome": "Lusail",
-      "imagem":"TODO"
+      "imagem":"https://www.qatar2022.qa/sites/default/files/styles/stadium_mobile/public/stadiums/images/Lusail%20Stadium_7.png?itok=kE8hbFhV"
     },
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem":"TODO"
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5,
-      "imagem":"TODO"
+      "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   }
 ]
